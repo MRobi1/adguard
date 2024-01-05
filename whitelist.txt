@@ -12,3 +12,5 @@ device-messaging-na.amazon.com
 s3-eu-west-1.amazonaws.com
 us-east-1.amazonaws.com
 firebaseinstallations.googleapis.com
+firebaseremoteconfig.googleapis.com
+firebase-settings.crashlytics.com
