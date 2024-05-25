@@ -14,3 +14,5 @@ us-east-1.amazonaws.com
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
 firebase-settings.crashlytics.com
+ad.doubleclick.net
+adservice.google.com
